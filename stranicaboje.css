@@ -1,0 +1,58 @@
+.blue-header{
+    background-color: #F1DEC9;
+}
+.containerzadnji{
+    background-color:#A4907C;
+    padding: 10px 0 20px;
+    
+}
+.ooo{
+
+    background-color: white;
+    margin-top: -16px;
+    padding-top: 20px;
+}
+.omeni{
+    background-color: #F1DEC9;
+}
+.polje2{
+
+    background-color: #C8B6A6;
+}
+.tekststr3{
+
+    padding-left: 20px;
+    position: center;
+    padding-bottom: 20px;
+    
+    
+}
+.str3heading{
+    font-style:italic;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    text-align: center;
+    
+
+}
+.slikastr3profilna{
+    border-radius: 5%;
+    margin-top: -70px
+}
+#clock {
+    font-size: 1.5rem;
+    color: #181616; 
+    margin-right: -90px;
+    
+    
+}
+.slikapokrajstata{
+
+    margin-right:70px;
+}
+
+
+
+
+      
+
